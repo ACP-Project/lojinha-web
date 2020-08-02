@@ -1,0 +1,37 @@
+.Data 
+{
+    background-color: #fcfcfc;
+    display: flex;
+    flex-direction: column;
+    height: 65%;
+    width: 46%;
+    padding-top: 5%;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: space-evenly;
+    box-shadow: 0px 1px 8px #6C5CE7; 
+    
+}
+.DataTitle
+{
+    height: 5vh;
+    width: 100%;
+    font-size: 18px;
+    font-family: Open Sans Condensed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+.DataAmount
+{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-block-end: 5%;
+}
